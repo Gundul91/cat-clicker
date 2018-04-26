@@ -1,0 +1,16 @@
+.container {
+    position: relative;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.cat-image {
+    width: 100%;
+}
+
+.clicks-count {
+    position: absolute;
+    left: 5%;
+    top: 7%;
+    font-size: 3em;
+}
